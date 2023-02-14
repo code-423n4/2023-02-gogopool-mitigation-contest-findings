@@ -1,0 +1,8 @@
+{
+  "contest": 214,
+  "handle": "hansfriese",
+  "risk": "2",
+  "title": "There is no way to retrieve the rewards from the `MultisigManager` and rewards are locked in the vault.",
+  "issueId": 46,
+  "issueUrl": "https://github.com/code-423n4/2023-02-gogopool-mitigation-contest-findings/issues/46"
+}
